@@ -14,3 +14,17 @@ a {
   .btn1 a {
     color: #4D5254;
     letter-spacing: 2px; }
+
+#myButton {
+  margin: 0 auto;
+  background-color: #52616b;
+  border-radius: 42px;
+  display: inline-block;
+  cursor: pointer;
+  color: white;
+  font-family: Verdana;
+  font-size: 20px;
+  padding: 16px 31px;
+  text-decoration: none; }
+  #myButton:hover {
+    background-color: #858585; }
