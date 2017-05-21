@@ -16,10 +16,11 @@ a {
     letter-spacing: 2px; }
 
 #myButton {
+  text-align: center;
+  width: 80px;
   margin: 20px auto;
   background-color: #52616b;
   border-radius: 42px;
-  display: inline-block;
   cursor: pointer;
   color: white;
   font-family: Verdana;
