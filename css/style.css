@@ -16,6 +16,8 @@ a {
     letter-spacing: 2px; }
 
 #myButton {
+  transition-timing-function: ease-in-out;
+  transition: 0.5s;
   text-align: center;
   width: 80px;
   margin: 20px auto;
